@@ -1,13 +1,13 @@
-<p align="center">
-  <span style="font-size: 32px; font-weight: bold;">Hi there! I'm Ema 👋</span>
-</p>
+<div align="center">
+  <h1>Hi there! I'm Ema 👋</h1>
+</div>
 
 <p align="center">
   I am a Biomedical Engineer from Portugal, eager to kickstart my professional career.
 </p>
 
 <p align="center">
-  My areas of interest include Machine Learning, Deep Learning, and Computer Vision. I’m also diving into Software Development, focusing primarily on Python and Java.
+  My main areas of interest include Machine Learning, Deep Learning, and Computer Vision. I’m also diving into Software Development, focusing primarily on Python and Java.
 </p>
 
 <p align="center">
