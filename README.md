@@ -23,10 +23,6 @@
   </a>
 </div>
 
-<p></p>
-<div align="center">
-  <p><em>Note: I'm currently in the process of building my GitHub profile and uploading my projects. Please bear with me as I showcase my work!</em></p>
-</div>
 
 <!---
 emammacedo/emammacedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
